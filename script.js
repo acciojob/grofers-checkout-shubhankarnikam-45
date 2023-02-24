@@ -30,7 +30,7 @@ const getSum = () => {
         let num = prices[i].innerHTML;
         totalSum += Number(num);
     }
-
+    //code
     //adding total sum in the last cell which we add dynamically.
 
     total.innerHTML = totalSum;
