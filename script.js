@@ -16,12 +16,12 @@ let td2 = document.createElement("td");
 lr.append(td2);
 
 //total price printer
-td2.setAttribute("id", "totalPrice");
+td2.setAttribute("id", "ans");
 
 
 const getSum = () => {
     //Add your code here
-    let total = document.querySelector("#totalPrice");
+    let total = document.querySelector("#ans");
 
 
     let prices = document.querySelectorAll(".price");
