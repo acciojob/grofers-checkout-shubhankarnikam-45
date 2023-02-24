@@ -1,2 +1,17 @@
 
-/* Your CSS Code here. */
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    color:whitesmoke
+}
+
+tr{
+    background-color: black;
+    height: 40px;
+}
+
+#btn{
+    color:black
+   
+}
